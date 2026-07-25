@@ -1,6 +1,6 @@
 #
 # oGomes 🤓
-
+#
 <div align="center">
   <a href="https://www.youtube.com/@oGomesssXD" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
@@ -49,5 +49,5 @@
 <p align="left">Eu participei de algumas gamjam como GMTK 2026 e fiquei em - tambem participei da nonejam 12 que fiquei na posição 108, não é bom mas acontece XD/p>
 
 ### 
- 
+#
 ###
