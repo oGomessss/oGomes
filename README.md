@@ -49,15 +49,3 @@
 <p align="left">Eu participei de algumas gamjam como GMTK 2026 e fiquei em - tambem participei da nonejam 12 que fiquei na posição 108, não é bom mas acontece XD/p>
 
 ###
-
-###
-
-#
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oGomessss/pacman-contribution/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oGomessss/pacman-contribution/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/oGomessss/pacman-contribution/output/pacman-contribution-graph.svg">
-</picture>
-
-#
