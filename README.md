@@ -45,7 +45,7 @@
 
 ###
 
-<p align="left">Eu participei de algumas gamjam como GMTK 2026 e fiquei em - tambem participei da nonejam 12 que fiquei na posição 108, não é bom mas acontece XD/p>
+<p align="left">Eu participei de algumas gamjam como GMTK 2026 e fiquei em -                           tambem participei da nonejam 12 que fiquei na posição 108, não é bom mas acontece XD/p>
 
 ### 
 <picture>
